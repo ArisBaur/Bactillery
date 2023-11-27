@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "96ecdda50b8def9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e015adc94767018",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbf41ae7e63c977a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8c13471f8a751ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "70082ebbe2dce1e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08c3580c8c8c9cc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3ac060f5272c451",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "evolve",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ad73bb539cbcb71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25d50fd4bce91c17",
+    "type": "split",
+    "children": [
+      {
+        "id": "af175601ff66188b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80a4eac5779967c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20f8ef24cb958272",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f293c24e0d70d5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb8c22546510aa4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true
+    }
+  },
+  "active": "dbf41ae7e63c977a",
+  "lastOpenFiles": [
+    "Pictures/roguelike_map_idea.png",
+    "Pictures/overview_of_all_immune_cells.png",
+    "Pictures",
+    "Immune System Bacteria/Antivirus.md",
+    "Immune System Bacteria/5. B-Cells.md",
+    "Immune System Bacteria/info.md",
+    "Immune System Bacteria/Antibodies.md",
+    "Immune System Bacteria/6. Memory Helper T-Cells.md",
+    "Immune System Bacteria/6. Memory B-Cells.md",
+    "Immune System Bacteria/4. Killer T-Cells.md",
+    "Immune System Bacteria/3. Dendritic Cell.md",
+    "Immune System Bacteria/4. Helper T-Cells.md",
+    "Immune System Bacteria/2.1 Inflammation.md",
+    "Immune System Bacteria/2. Neutrophil.md",
+    "Immune System Bacteria/1. Macrophage.md",
+    "Immune System Bacteria/0. Damaged Cells.md",
+    "Immune System Bacteria",
+    "Game Concept.md",
+    "Intruder.md",
+    "Startup!.md",
+    "Untitled.md",
+    "Untitled.canvas"
+  ]
+}
