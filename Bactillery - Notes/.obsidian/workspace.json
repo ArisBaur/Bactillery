@@ -11,8 +11,12 @@
             "id": "dbf41ae7e63c977a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Immune System Bacteria/1. Macrophage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Immune System Bacteria/1. Macrophage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Immune System Bacteria/1. Macrophage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Immune System Bacteria/1. Macrophage.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "dbf41ae7e63c977a",
   "lastOpenFiles": [
+    "Immune System Bacteria/0. Damaged Cells.md",
+    "Immune System Bacteria/Intruder.md",
+    "Game Concept.md",
     "Pictures/roguelike_map_idea.png",
     "Pictures/overview_of_all_immune_cells.png",
     "Pictures",
@@ -155,10 +166,7 @@
     "Immune System Bacteria/2.1 Inflammation.md",
     "Immune System Bacteria/2. Neutrophil.md",
     "Immune System Bacteria/1. Macrophage.md",
-    "Immune System Bacteria/0. Damaged Cells.md",
     "Immune System Bacteria",
-    "Game Concept.md",
-    "Intruder.md",
     "Startup!.md",
     "Untitled.md",
     "Untitled.canvas"
