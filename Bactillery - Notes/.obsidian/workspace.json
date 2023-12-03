@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
+                "file": "Immune System Bacteria/1. Macrophage.md",
+=======
                 "file": "Game Concept.md",
+>>>>>>> 2ce4e875ef6bcfbc26a5c2ecb873f7830ac4429f
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+                "file": "Immune System Bacteria/1. Macrophage.md",
+=======
                 "file": "Game Concept.md",
+>>>>>>> 2ce4e875ef6bcfbc26a5c2ecb873f7830ac4429f
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+                "file": "Immune System Bacteria/1. Macrophage.md",
+=======
                 "file": "Game Concept.md",
+>>>>>>> 2ce4e875ef6bcfbc26a5c2ecb873f7830ac4429f
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
+                "file": "Immune System Bacteria/1. Macrophage.md"
+=======
                 "file": "Game Concept.md"
+>>>>>>> 2ce4e875ef6bcfbc26a5c2ecb873f7830ac4429f
               }
             }
           }
@@ -148,6 +164,9 @@
   },
   "active": "dbf41ae7e63c977a",
   "lastOpenFiles": [
+    "Immune System Bacteria/0. Damaged Cells.md",
+    "Immune System Bacteria/Intruder.md",
+    "Game Concept.md",
     "Pictures/roguelike_map_idea.png",
     "Pictures/overview_of_all_immune_cells.png",
     "Pictures",
@@ -163,10 +182,7 @@
     "Immune System Bacteria/2.1 Inflammation.md",
     "Immune System Bacteria/2. Neutrophil.md",
     "Immune System Bacteria/1. Macrophage.md",
-    "Immune System Bacteria/0. Damaged Cells.md",
     "Immune System Bacteria",
-    "Game Concept.md",
-    "Intruder.md",
     "Startup!.md",
     "Untitled.md",
     "Untitled.canvas"
