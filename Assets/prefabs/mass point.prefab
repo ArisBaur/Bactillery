@@ -101,7 +101,7 @@ MonoBehaviour:
   attachedSpring: {fileID: 0}
   velocity: {x: 0, y: 0}
   mass: 10
-  damping: 1
+  damping: 0.99
   velocityThreshold: 0.001
 --- !u!58 &-7875974897917575925
 CircleCollider2D:
