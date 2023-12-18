@@ -1,0 +1,1 @@
+so the circles have a lot of friction, which is good so they dont slip. but since gravity wont be a thing i might remove that, because another thing which is annoying is that the balls themselves stuck to each other
